@@ -108,4 +108,14 @@ Please visit the [Tableau Dashboard](https://public.tableau.com/app/profile/shre
 
 A few images of charts:
 
-  
+<p align="center">
+  <img width="700" height="250" src="https://github.com/ShreyaThacker/Montgomery-County-Crash-Reporting/blob/main/donut.png">
+</p>
+
+<p align="center">
+  <img width="1000" height="525" src="https://github.com/ShreyaThacker/Montgomery-County-Crash-Reporting/blob/main/speed%20limit.png">
+</p>
+
+<p align="center">
+  <img width="1000" height="525" src="https://github.com/ShreyaThacker/Montgomery-County-Crash-Reporting/blob/main/time%20of%20day%20and%20weather.png">
+</p>
